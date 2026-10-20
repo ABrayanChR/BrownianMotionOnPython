@@ -1,0 +1,22 @@
+# Editor settings
+.idea/
+.vscode/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated data
+simulaciones/
+*.npz
+
+# Videos (heavy; upload them to Releases or YouTube instead)
+videos/
+*.mov
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
