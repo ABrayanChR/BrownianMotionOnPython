@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/4a75ac49-8e74-4829-af12-d3e2b0fdab8f
+
+
+
 # 3D Brownian Motion Simulation (Langevin Equation)
 
 A Python simulation of a Brownian particle in a fluid, numerically
@@ -89,6 +95,11 @@ estudioprobabilistico(["datos_xxxxxx_....npz"], lectura=True)
 ## Results
 
 <img width="1400" height="600" alt="convergencia155simulaciones" src="https://github.com/user-attachments/assets/94a09098-05da-4b38-b4a5-7fa9e84177d6" />
+
+
+
+https://github.com/user-attachments/assets/c34f2608-5cfc-42ce-a5a3-41c4ac4707f2
+
 
 
 <img width="800" height="800" alt="119particulasbrownianas" src="https://github.com/user-attachments/assets/82f10550-6c8a-44ac-a89b-3fba7b2cd6fa" />
